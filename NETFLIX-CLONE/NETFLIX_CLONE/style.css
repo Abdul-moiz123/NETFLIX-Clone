@@ -1,0 +1,41 @@
+*{
+    font-family: "Netflix Sans";
+}
+
+.image{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;    
+}
+
+
+.logo_img{
+    background-image: url(assets/logo.png);
+}
+
+.bg-image{
+    background-image: url(assets/hero.jpg);
+    height: 100vh;
+}
+
+.hero_image{
+    background-image: url(assets/tv.png);
+    
+}
+
+.hero1_image{
+    background-image: url(assets/mobile-0819.jpg);
+}
+
+.hero2_image{
+    background-image: url(assets/kids.png);
+}
+
+li{
+    margin-bottom: 0.5rem;
+    color: white;
+    font-size: small;
+    text-decoration: underline;
+    text-decoration-color: white;
+
+}
